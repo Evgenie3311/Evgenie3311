@@ -1,16 +1,17 @@
-## Hi there 👋
+## Evgenie3311
+14 y.o self-taught developer.
 
-<!--
-**Evgenie3311/Evgenie3311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🖥️ Experience:
+- C# (learning rn)
+- Java (abandoned)
+- Python (abandoned)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ My computer:
+- Intel(R) Core(TM) i7-3770 CPU @ 3.90 GHz
+- 12 GB DDR3
+- AMD Radeon RX 550/550 Series
+- SSD 240 GB
+- Arch Linux user
+- Hyprland as a WM
+- Linux-lqx as a kernel
