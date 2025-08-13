@@ -2,12 +2,12 @@
 14 y.o self-taught developer.
 
 
-- 🖥️ Experience:
+## - 🖥️ Experience:
 - C# (learning rn)
 - Java (abandoned)
 - Python (abandoned)
 
-- ⚡ My computer:
+## - ⚡ My computer:
 - Intel(R) Core(TM) i7-3770 CPU @ 3.90 GHz
 - 12 GB DDR3
 - AMD Radeon RX 550/550 Series
