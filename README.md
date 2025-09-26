@@ -3,8 +3,7 @@
 
 
 ## - 🖥️ Experience:
-- C# (learning rn)
-- Java (abandoned)
+- C# (learning)
 - Python (abandoned)
 
 ## - ⚡ My computer:
